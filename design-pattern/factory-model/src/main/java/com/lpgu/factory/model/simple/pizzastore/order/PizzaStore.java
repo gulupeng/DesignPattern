@@ -1,8 +1,11 @@
 package com.lpgu.factory.model.simple.pizzastore.order;
 
+import com.lpgu.factory.model.simple.pizzastore.SimpleFactory;
+
 public class PizzaStore {
     public static void main(String[] args) {
-        OrderPizza orderPizza = new OrderPizza();
+        SimpleFactory simpleFactory = new SimpleFactory();
+        OrderPizza orderPizza = new OrderPizza(simpleFactory);
 
     }
 }

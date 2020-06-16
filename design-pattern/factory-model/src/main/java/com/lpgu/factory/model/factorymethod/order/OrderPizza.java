@@ -1,6 +1,5 @@
-package com.lpgu.factory.model.factory.order;
+package com.lpgu.factory.model.factorymethod.order;
 
-import com.lpgu.factory.model.simple.pizzastore.SimpleFactory;
 import com.lpgu.factory.model.simple.pizzastore.pizza.Pizza;
 
 import java.io.BufferedReader;

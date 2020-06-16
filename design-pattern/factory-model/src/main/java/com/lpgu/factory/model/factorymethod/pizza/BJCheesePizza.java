@@ -1,4 +1,4 @@
-package com.lpgu.factory.model.factory.pizza;
+package com.lpgu.factory.model.factorymethod.pizza;
 
 import com.lpgu.factory.model.simple.pizzastore.pizza.Pizza;
 
