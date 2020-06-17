@@ -8,17 +8,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="prototype-model" />
+        <module name="builder-model (1)" />
         <module name="single-model" />
-        <module name="design-pattern" />
         <module name="consumer-model" />
         <module name="factory-model" />
+        <module name="design-pattern (1)" />
         <module name="builder-model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="builder-model" target="1.8" />
+      <module name="builder-model (1)" target="1.8" />
       <module name="consumer-model" target="1.8" />
       <module name="design-pattern" target="1.8" />
+      <module name="design-pattern (1)" target="1.8" />
       <module name="factory-model" target="1.8" />
       <module name="prototype-model" target="1.8" />
       <module name="single-model" target="1.8" />
@@ -27,8 +30,10 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="builder-model" options="-parameters" />
+      <module name="builder-model (1)" options="-parameters" />
       <module name="consumer-model" options="-parameters" />
       <module name="design-pattern" options="-parameters" />
+      <module name="design-pattern (1)" options="-parameters" />
       <module name="factory-model" options="-parameters" />
       <module name="prototype-model" options="-parameters" />
       <module name="single-model" options="-parameters" />
