@@ -18,6 +18,7 @@
         <module>factory-model</module>
         <module>builder-model</module>
         <module>prototype-model</module>
+        <module>adapter-model</module>
     </modules>
 
     <dependencies>

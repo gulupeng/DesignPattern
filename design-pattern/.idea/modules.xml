@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter-model/adapter-model.iml" filepath="$PROJECT_DIR$/adapter-model/adapter-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder-model/builder-model.iml" filepath="$PROJECT_DIR$/builder-model/builder-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-model/builder-model (1).iml" filepath="$PROJECT_DIR$/prototype-model/builder-model (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-model/consumer-model.iml" filepath="$PROJECT_DIR$/consumer-model/consumer-model.iml" />

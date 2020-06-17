@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/single-model/pom.xml" />
         <option value="$PROJECT_DIR$/factory-model/pom.xml" />
         <option value="$PROJECT_DIR$/builder-model/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter-model/pom.xml" />
       </list>
     </option>
   </component>
